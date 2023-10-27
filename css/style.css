@@ -500,14 +500,14 @@ ul .our-team-icons {
 
 .footer-icons li:hover,
 .footer-icons li:focus {
-  background-color: rgba(49, 208, 170, 1);
+  background-color: rgb(49, 150, 208);
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .our-team-icons li:hover,
 .footer-icons li:focus {
-  background-color: rgba(64, 75, 191, 1);
+  background-color: rgb(64, 157, 191);
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
